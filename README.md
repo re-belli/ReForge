@@ -7,7 +7,7 @@ Working on CodeQl integration piece.
 
 
 ## Instructions to use Project
-# Download Ghidra into the ReForge folder and run it so that the script structure is setup.
+### Download Ghidra into the ReForge folder and run it so that the script structure is setup.
 
 ### Install ollama
 curl -fsSL https://ollama.com/install.sh | sh
